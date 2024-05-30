@@ -1,4 +1,4 @@
-# Projetos-Python
+# 🐍 Projetos-Python
 Este repositório contém vários projetos escritos em Python, cobrindo uma variedade de tópicos, desde manipulação de dicionários e listas até funções e operações do sistema operacional.
 
 ## Estrutura do Projeto
